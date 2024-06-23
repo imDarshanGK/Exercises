@@ -5,3 +5,6 @@
 
     Enter a number>> 12
     3
+
+    Enter a number>> 55
+    10
