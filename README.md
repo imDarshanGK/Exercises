@@ -6,5 +6,5 @@
     Enter a number>> 12
     3
 
-    Enter a number>> 55
-    10
+    Enter a number>> 23
+    5
