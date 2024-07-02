@@ -1,7 +1,7 @@
 # Add digits
 
-    Enter a number>> 56
-    11
+    Enter a number>> 55
+    10
 
     Enter a number>> 33
     6
