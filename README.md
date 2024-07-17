@@ -8,3 +8,6 @@
 
     Enter a number>> 23
     5
+
+Enter all heights separated by a space: 175 165 185 145
+Average height is: 168
