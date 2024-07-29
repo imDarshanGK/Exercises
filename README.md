@@ -8,10 +8,15 @@
 
     Enter a number>> 23
     5
+
+    Enter a number>> 22
+    4
+    
 # Calculate average height
 
     Enter all heights separated by a space: 175 165 185 145
     Average height is: 168
+    
 # Paint area
 
     Enter a height of wall in meter:
