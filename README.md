@@ -6,8 +6,8 @@
     Enter a number>> 31
     4
 
-    Enter a number>> 23
-    5
+    Enter a number>> 24
+    6
 
     Enter a number>> 22
     4
