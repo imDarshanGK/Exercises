@@ -1,4 +1,8 @@
-# Exercises
+# Exercises Repository
 
-This repository contains a collection of small programs and trick programs designed to help improve programming skills. Each program is a simple exercise, but they often come with interesting challenges or clever solutions.
+## Overview
+This repository contains various exercises to practice programming concepts in Python. The exercises range from basic syntax to advanced topics, helping users enhance their coding skills through hands-on challenges.
 
+## Features
+- Collection of Python exercises.
+- Problems covering various programming concepts.
